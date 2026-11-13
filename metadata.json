@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Modern Task & Project Planner",
+  "description": "A refined, high-performance to-do and project management application with natural language quick-add, subtasks, drag-and-drop organization, and smart views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
